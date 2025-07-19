@@ -1,14 +1,12 @@
-<<<<<<< HEAD
 # Croplyzer
 ## An IoT technology using Raspberry Pi driven by AI/ML technology that predicts maturity of crops/fruits in an agricultural farm.
 
 ### Team name: Dev Devils
 
 ## Team members
-* Vriddhi Gupta - vagupta_b19@it.vjti.ac.in
-* Neel Dandiwala - nddandiwala_b19@it.vjti.ac.in
-* Prasad Thakare - thakareprasad80@gmail.com
-* Tanish Sawant - tanish.sawant5@gmail.com
+* Kuldip Godase - 23f2001863@ds.study.iitm.ac.in
+* Pratik Kulkarni - pratikkulkarni8550@gmail.com
+* Aadesh Kulkarni - aadeshkulkarni07@gmail.com
 
 ## Description of Solution
 
