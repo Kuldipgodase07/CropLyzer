@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Croplyzer
 ## An IoT technology using Raspberry Pi driven by AI/ML technology that predicts maturity of crops/fruits in an agricultural farm.
 
@@ -62,3 +63,6 @@ Tools and technologies that you learnt and used in the project.
 | ![](https://github.com/Vriddhigupta/Croplyzer/blob/main/Home_with_image.jpeg) | ![](https://github.com/Vriddhigupta/Croplyzer/blob/main/prediction.jpeg) |
 | :-------------: | :-------------:  | 
 |     Home Page with Image     |    Maturity Prediction   |    
+=======
+# CropLyzer
+>>>>>>> eb2cc3cc9d896ba2ced8f355571f11df8c45beac
