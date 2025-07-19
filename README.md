@@ -5,8 +5,8 @@
 
 ## Team members
 * Kuldip Godase - 23f2001863@ds.study.iitm.ac.in
-* Pratik Kulkarni - pratikkulkarni8550@gmail.com
-* Aadesh Kulkarni - aadeshkulkarni07@gmail.com
+* 
+* 
 
 ## Description of Solution
 
